@@ -46,17 +46,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="bolmebolu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="bolmebolu.Designer.cs">
+      <DependentUpon>bolmebolu.cs</DependentUpon>
     </Compile>
-    <Compile Include="hesap.cs">
+    <Compile Include="hizproblem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="hesap.Designer.cs">
-      <DependentUpon>hesap.cs</DependentUpon>
+    <Compile Include="hizproblem.Designer.cs">
+      <DependentUpon>hizproblem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklusayi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklusayi.Designer.cs">
+      <DependentUpon>koklusayi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="polinom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="polinom.Designer.cs">
+      <DependentUpon>polinom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="progdilleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progdilleri.Designer.cs">
+      <DependentUpon>progdilleri.cs</DependentUpon>
     </Compile>
     <Compile Include="soru1.cs">
       <SubType>Form</SubType>
@@ -72,11 +90,56 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="soru2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soru2.Designer.cs">
+      <DependentUpon>soru2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="soru3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soru3.Designer.cs">
+      <DependentUpon>soru3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="soru4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soru4.Designer.cs">
+      <DependentUpon>soru4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkavramlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkavramlar.Designer.cs">
+      <DependentUpon>temelkavramlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uslusayi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uslusayi.Designer.cs">
+      <DependentUpon>uslusayi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yasproblem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yasproblem.Designer.cs">
+      <DependentUpon>yasproblem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bolmebolu.resx">
+      <DependentUpon>bolmebolu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="hesap.resx">
-      <DependentUpon>hesap.cs</DependentUpon>
+    <EmbeddedResource Include="hizproblem.resx">
+      <DependentUpon>hizproblem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklusayi.resx">
+      <DependentUpon>koklusayi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="polinom.resx">
+      <DependentUpon>polinom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progdilleri.resx">
+      <DependentUpon>progdilleri.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="soru1.resx">
       <DependentUpon>soru1.cs</DependentUpon>
@@ -93,6 +156,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="soru2.resx">
+      <DependentUpon>soru2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soru3.resx">
+      <DependentUpon>soru3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soru4.resx">
+      <DependentUpon>soru4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkavramlar.resx">
+      <DependentUpon>temelkavramlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uslusayi.resx">
+      <DependentUpon>uslusayi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yasproblem.resx">
+      <DependentUpon>yasproblem.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

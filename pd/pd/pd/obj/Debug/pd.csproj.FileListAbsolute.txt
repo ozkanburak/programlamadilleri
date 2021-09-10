@@ -2,7 +2,6 @@ W:\pd\pd\pd\bin\Debug\pd.exe.config
 W:\pd\pd\pd\bin\Debug\pd.exe
 W:\pd\pd\pd\bin\Debug\pd.pdb
 W:\pd\pd\pd\obj\Debug\pd.csproj.AssemblyReference.cache
-W:\pd\pd\pd\obj\Debug\pd.Form1.resources
 W:\pd\pd\pd\obj\Debug\pd.mutlak.resources
 W:\pd\pd\pd\obj\Debug\pd.Properties.Resources.resources
 W:\pd\pd\pd\obj\Debug\pd.csproj.GenerateResource.cache
@@ -10,4 +9,14 @@ W:\pd\pd\pd\obj\Debug\pd.csproj.CoreCompileInputs.cache
 W:\pd\pd\pd\obj\Debug\pd.exe
 W:\pd\pd\pd\obj\Debug\pd.pdb
 W:\pd\pd\pd\obj\Debug\pd.soru1.resources
-W:\pd\pd\pd\obj\Debug\pd.hesap.resources
+W:\pd\pd\pd\obj\Debug\pd.soru2.resources
+W:\pd\pd\pd\obj\Debug\pd.soru3.resources
+W:\pd\pd\pd\obj\Debug\pd.soru4.resources
+W:\pd\pd\pd\obj\Debug\pd.uslusayi.resources
+W:\pd\pd\pd\obj\Debug\pd.progdilleri.resources
+W:\pd\pd\pd\obj\Debug\pd.koklusayi.resources
+W:\pd\pd\pd\obj\Debug\pd.temelkavramlar.resources
+W:\pd\pd\pd\obj\Debug\pd.bolmebolu.resources
+W:\pd\pd\pd\obj\Debug\pd.hizproblem.resources
+W:\pd\pd\pd\obj\Debug\pd.polinom.resources
+W:\pd\pd\pd\obj\Debug\pd.yasproblem.resources
