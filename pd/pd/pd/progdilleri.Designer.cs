@@ -156,14 +156,14 @@ namespace pd
             this.panel2.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel2.Location = new System.Drawing.Point(249, 1);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(981, 643);
+            this.panel2.Size = new System.Drawing.Size(924, 643);
             this.panel2.TabIndex = 12;
             // 
             // progdilleri
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1231, 645);
+            this.ClientSize = new System.Drawing.Size(1175, 645);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Name = "progdilleri";

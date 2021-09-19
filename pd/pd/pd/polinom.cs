@@ -16,5 +16,25 @@ namespace pd
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            polinom1 ekle = new polinom1();
+            ekle.TopLevel = false;
+            panel1.Controls.Add(ekle);
+            ekle.Show();
+            ekle.Dock = DockStyle.Fill;
+            ekle.BringToFront();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            polinom2 ekle = new polinom2();
+            ekle.TopLevel = false;
+            panel1.Controls.Add(ekle);
+            ekle.Show();
+            ekle.Dock = DockStyle.Fill;
+            ekle.BringToFront();
+        }
     }
 }

@@ -52,11 +52,83 @@
     <Compile Include="bolmebolu.Designer.cs">
       <DependentUpon>bolmebolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="bolunebilme1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bolunebilme1.Designer.cs">
+      <DependentUpon>bolunebilme1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bolunebilme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bolunebilme2.Designer.cs">
+      <DependentUpon>bolunebilme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hiz1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hiz1.Designer.cs">
+      <DependentUpon>hiz1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hiz2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hiz2.Designer.cs">
+      <DependentUpon>hiz2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hiz3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hiz3.Designer.cs">
+      <DependentUpon>hiz3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hiz4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hiz4.Designer.cs">
+      <DependentUpon>hiz4.cs</DependentUpon>
+    </Compile>
     <Compile Include="hizproblem.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="hizproblem.Designer.cs">
       <DependentUpon>hizproblem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklu1.Designer.cs">
+      <DependentUpon>koklu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklu2.Designer.cs">
+      <DependentUpon>koklu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklu3.Designer.cs">
+      <DependentUpon>koklu3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklu4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklu4.Designer.cs">
+      <DependentUpon>koklu4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklu5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklu5.Designer.cs">
+      <DependentUpon>koklu5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="koklu6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koklu6.Designer.cs">
+      <DependentUpon>koklu6.cs</DependentUpon>
     </Compile>
     <Compile Include="koklusayi.cs">
       <SubType>Form</SubType>
@@ -69,6 +141,18 @@
     </Compile>
     <Compile Include="polinom.Designer.cs">
       <DependentUpon>polinom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="polinom1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="polinom1.Designer.cs">
+      <DependentUpon>polinom1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="polinom2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="polinom2.Designer.cs">
+      <DependentUpon>polinom2.cs</DependentUpon>
     </Compile>
     <Compile Include="progdilleri.cs">
       <SubType>Form</SubType>
@@ -108,17 +192,125 @@
     <Compile Include="soru4.Designer.cs">
       <DependentUpon>soru4.cs</DependentUpon>
     </Compile>
+    <Compile Include="temelkav1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav1.Designer.cs">
+      <DependentUpon>temelkav1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav10.Designer.cs">
+      <DependentUpon>temelkav10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav2.Designer.cs">
+      <DependentUpon>temelkav2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav3.Designer.cs">
+      <DependentUpon>temelkav3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav4.Designer.cs">
+      <DependentUpon>temelkav4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav5.Designer.cs">
+      <DependentUpon>temelkav5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav6.Designer.cs">
+      <DependentUpon>temelkav6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav7.Designer.cs">
+      <DependentUpon>temelkav7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav8.Designer.cs">
+      <DependentUpon>temelkav8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="temelkav9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temelkav9.Designer.cs">
+      <DependentUpon>temelkav9.cs</DependentUpon>
+    </Compile>
     <Compile Include="temelkavramlar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="temelkavramlar.Designer.cs">
       <DependentUpon>temelkavramlar.cs</DependentUpon>
     </Compile>
+    <Compile Include="uslu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uslu1.Designer.cs">
+      <DependentUpon>uslu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uslu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uslu2.Designer.cs">
+      <DependentUpon>uslu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uslu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uslu3.Designer.cs">
+      <DependentUpon>uslu3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uslu4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uslu4.Designer.cs">
+      <DependentUpon>uslu4.cs</DependentUpon>
+    </Compile>
     <Compile Include="uslusayi.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="uslusayi.Designer.cs">
       <DependentUpon>uslusayi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yas1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yas1.Designer.cs">
+      <DependentUpon>yas1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yas2.Designer.cs">
+      <DependentUpon>yas2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yas3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yas3.Designer.cs">
+      <DependentUpon>yas3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yas4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yas4.Designer.cs">
+      <DependentUpon>yas4.cs</DependentUpon>
     </Compile>
     <Compile Include="yasproblem.cs">
       <SubType>Form</SubType>
@@ -129,14 +321,56 @@
     <EmbeddedResource Include="bolmebolu.resx">
       <DependentUpon>bolmebolu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="bolunebilme1.resx">
+      <DependentUpon>bolunebilme1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bolunebilme2.resx">
+      <DependentUpon>bolunebilme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hiz1.resx">
+      <DependentUpon>hiz1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hiz2.resx">
+      <DependentUpon>hiz2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hiz3.resx">
+      <DependentUpon>hiz3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hiz4.resx">
+      <DependentUpon>hiz4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="hizproblem.resx">
       <DependentUpon>hizproblem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklu1.resx">
+      <DependentUpon>koklu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklu2.resx">
+      <DependentUpon>koklu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklu3.resx">
+      <DependentUpon>koklu3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklu4.resx">
+      <DependentUpon>koklu4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklu5.resx">
+      <DependentUpon>koklu5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="koklu6.resx">
+      <DependentUpon>koklu6.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="koklusayi.resx">
       <DependentUpon>koklusayi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="polinom.resx">
       <DependentUpon>polinom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="polinom1.resx">
+      <DependentUpon>polinom1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="polinom2.resx">
+      <DependentUpon>polinom2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="progdilleri.resx">
       <DependentUpon>progdilleri.cs</DependentUpon>
@@ -165,11 +399,65 @@
     <EmbeddedResource Include="soru4.resx">
       <DependentUpon>soru4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="temelkav1.resx">
+      <DependentUpon>temelkav1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav10.resx">
+      <DependentUpon>temelkav10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav2.resx">
+      <DependentUpon>temelkav2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav3.resx">
+      <DependentUpon>temelkav3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav4.resx">
+      <DependentUpon>temelkav4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav5.resx">
+      <DependentUpon>temelkav5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav6.resx">
+      <DependentUpon>temelkav6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav7.resx">
+      <DependentUpon>temelkav7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav8.resx">
+      <DependentUpon>temelkav8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="temelkav9.resx">
+      <DependentUpon>temelkav9.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="temelkavramlar.resx">
       <DependentUpon>temelkavramlar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="uslu1.resx">
+      <DependentUpon>uslu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uslu2.resx">
+      <DependentUpon>uslu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uslu3.resx">
+      <DependentUpon>uslu3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uslu4.resx">
+      <DependentUpon>uslu4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="uslusayi.resx">
       <DependentUpon>uslusayi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yas1.resx">
+      <DependentUpon>yas1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yas2.resx">
+      <DependentUpon>yas2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yas3.resx">
+      <DependentUpon>yas3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yas4.resx">
+      <DependentUpon>yas4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="yasproblem.resx">
       <DependentUpon>yasproblem.cs</DependentUpon>

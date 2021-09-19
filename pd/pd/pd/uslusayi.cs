@@ -16,5 +16,45 @@ namespace pd
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            uslu1 ekle = new uslu1();
+            ekle.TopLevel = false;
+            panel1.Controls.Add(ekle);
+            ekle.Show();
+            ekle.Dock = DockStyle.Fill;
+            ekle.BringToFront();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            uslu2 ekle = new uslu2();
+            ekle.TopLevel = false;
+            panel1.Controls.Add(ekle);
+            ekle.Show();
+            ekle.Dock = DockStyle.Fill;
+            ekle.BringToFront();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            uslu3 ekle = new uslu3();
+            ekle.TopLevel = false;
+            panel1.Controls.Add(ekle);
+            ekle.Show();
+            ekle.Dock = DockStyle.Fill;
+            ekle.BringToFront();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            uslu4 ekle = new uslu4();
+            ekle.TopLevel = false;
+            panel1.Controls.Add(ekle);
+            ekle.Show();
+            ekle.Dock = DockStyle.Fill;
+            ekle.BringToFront();
+        }
     }
 }

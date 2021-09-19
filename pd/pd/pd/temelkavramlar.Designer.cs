@@ -58,6 +58,7 @@ namespace pd
             this.button3.TabIndex = 10;
             this.button3.Text = "Soru4";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -67,6 +68,7 @@ namespace pd
             this.button4.TabIndex = 9;
             this.button4.Text = "Soru3";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button2
             // 
@@ -76,6 +78,7 @@ namespace pd
             this.button2.TabIndex = 8;
             this.button2.Text = "Soru2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -85,6 +88,7 @@ namespace pd
             this.button1.TabIndex = 7;
             this.button1.Text = "Soru1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -104,6 +108,7 @@ namespace pd
             this.button5.TabIndex = 15;
             this.button5.Text = "Soru8";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -113,6 +118,7 @@ namespace pd
             this.button6.TabIndex = 14;
             this.button6.Text = "Soru7";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
@@ -122,6 +128,7 @@ namespace pd
             this.button7.TabIndex = 13;
             this.button7.Text = "Soru6";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -131,6 +138,7 @@ namespace pd
             this.button8.TabIndex = 12;
             this.button8.Text = "Soru5";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -140,6 +148,7 @@ namespace pd
             this.button9.TabIndex = 17;
             this.button9.Text = "Soru10";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -149,6 +158,7 @@ namespace pd
             this.button10.TabIndex = 16;
             this.button10.Text = "Soru9";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // temelkavramlar
             // 
