@@ -74,75 +74,75 @@ namespace pd
             // sonuc
             // 
             this.sonuc.AutoSize = true;
-            this.sonuc.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sonuc.Location = new System.Drawing.Point(381, 439);
+            this.sonuc.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.sonuc.Location = new System.Drawing.Point(337, 413);
             this.sonuc.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.sonuc.Name = "sonuc";
-            this.sonuc.Size = new System.Drawing.Size(0, 26);
+            this.sonuc.Size = new System.Drawing.Size(0, 46);
             this.sonuc.TabIndex = 16;
             // 
             // ydeger
             // 
             this.ydeger.AutoSize = true;
-            this.ydeger.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ydeger.Location = new System.Drawing.Point(372, 403);
+            this.ydeger.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.ydeger.Location = new System.Drawing.Point(328, 377);
             this.ydeger.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.ydeger.Name = "ydeger";
-            this.ydeger.Size = new System.Drawing.Size(0, 26);
+            this.ydeger.Size = new System.Drawing.Size(0, 46);
             this.ydeger.TabIndex = 15;
             // 
             // xdeger
             // 
             this.xdeger.AutoSize = true;
-            this.xdeger.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.xdeger.Location = new System.Drawing.Point(372, 364);
+            this.xdeger.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.xdeger.Location = new System.Drawing.Point(328, 338);
             this.xdeger.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.xdeger.Name = "xdeger";
-            this.xdeger.Size = new System.Drawing.Size(0, 26);
+            this.xdeger.Size = new System.Drawing.Size(0, 46);
             this.xdeger.TabIndex = 14;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(335, 439);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.label3.Location = new System.Drawing.Point(291, 413);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 26);
+            this.label3.Size = new System.Drawing.Size(98, 46);
             this.label3.TabIndex = 13;
             this.label3.Text = "x+y=";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(343, 364);
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.label2.Location = new System.Drawing.Point(299, 338);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 26);
+            this.label2.Size = new System.Drawing.Size(59, 46);
             this.label2.TabIndex = 12;
             this.label2.Text = "y=";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(343, 403);
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.label4.Location = new System.Drawing.Point(299, 377);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(33, 26);
+            this.label4.Size = new System.Drawing.Size(59, 46);
             this.label4.TabIndex = 11;
             this.label4.Text = "x=";
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Comic Sans MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(348, 487);
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 25F);
+            this.button1.Location = new System.Drawing.Point(456, 366);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 66);
+            this.button1.Size = new System.Drawing.Size(186, 66);
             this.button1.TabIndex = 10;
-            this.button1.Text = "İşlem";
+            this.button1.Text = "Hesapla";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 

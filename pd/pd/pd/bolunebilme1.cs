@@ -16,5 +16,21 @@ namespace pd
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int sayi, sonuc = 0;
+            
+            sayi = Convert.ToInt32(Console.ReadLine());
+            sayi = 333;
+            sonuc += (sayi % 9);
+            sayi = sayi / 9;
+
+            
+            
+            label1.Text = sayi.ToString();
+            label2.Text = (3 + 7).ToString();
+
+        }
     }
 }

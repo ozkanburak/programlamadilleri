@@ -60,7 +60,7 @@ namespace pd
             this.btnQ1.Name = "btnQ1";
             this.btnQ1.Size = new System.Drawing.Size(135, 71);
             this.btnQ1.TabIndex = 19;
-            this.btnQ1.Text = "button1";
+            this.btnQ1.Text = "Hesapla";
             this.btnQ1.UseVisualStyleBackColor = true;
             this.btnQ1.Click += new System.EventHandler(this.btnQ1_Click);
             // 

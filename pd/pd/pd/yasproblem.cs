@@ -49,12 +49,7 @@ namespace pd
 
         private void button3_Click(object sender, EventArgs e)
         {
-            yas4 ekle = new yas4();
-            ekle.TopLevel = false;
-            panel1.Controls.Add(ekle);
-            ekle.Show();
-            ekle.Dock = DockStyle.Fill;
-            ekle.BringToFront();
+            
         }
     }
 }

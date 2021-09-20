@@ -76,12 +76,6 @@
     <Compile Include="hiz2.Designer.cs">
       <DependentUpon>hiz2.cs</DependentUpon>
     </Compile>
-    <Compile Include="hiz3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="hiz3.Designer.cs">
-      <DependentUpon>hiz3.cs</DependentUpon>
-    </Compile>
     <Compile Include="hiz4.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -270,12 +264,6 @@
     <Compile Include="uslu2.Designer.cs">
       <DependentUpon>uslu2.cs</DependentUpon>
     </Compile>
-    <Compile Include="uslu3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="uslu3.Designer.cs">
-      <DependentUpon>uslu3.cs</DependentUpon>
-    </Compile>
     <Compile Include="uslu4.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -306,12 +294,6 @@
     <Compile Include="yas3.Designer.cs">
       <DependentUpon>yas3.cs</DependentUpon>
     </Compile>
-    <Compile Include="yas4.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="yas4.Designer.cs">
-      <DependentUpon>yas4.cs</DependentUpon>
-    </Compile>
     <Compile Include="yasproblem.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -332,9 +314,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="hiz2.resx">
       <DependentUpon>hiz2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="hiz3.resx">
-      <DependentUpon>hiz3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="hiz4.resx">
       <DependentUpon>hiz4.cs</DependentUpon>
@@ -438,9 +417,6 @@
     <EmbeddedResource Include="uslu2.resx">
       <DependentUpon>uslu2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="uslu3.resx">
-      <DependentUpon>uslu3.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="uslu4.resx">
       <DependentUpon>uslu4.cs</DependentUpon>
     </EmbeddedResource>
@@ -455,9 +431,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="yas3.resx">
       <DependentUpon>yas3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="yas4.resx">
-      <DependentUpon>yas4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="yasproblem.resx">
       <DependentUpon>yasproblem.cs</DependentUpon>

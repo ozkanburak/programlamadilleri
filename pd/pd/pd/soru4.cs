@@ -16,5 +16,13 @@ namespace pd
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double k = 1.1;
+            double l = 1.9;
+            double sonuc = k * l;
+            label1.Text = sonuc.ToString();
+        }
     }
 }

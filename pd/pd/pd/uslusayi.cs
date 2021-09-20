@@ -37,15 +37,7 @@ namespace pd
             ekle.BringToFront();
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            uslu3 ekle = new uslu3();
-            ekle.TopLevel = false;
-            panel1.Controls.Add(ekle);
-            ekle.Show();
-            ekle.Dock = DockStyle.Fill;
-            ekle.BringToFront();
-        }
+        
 
         private void button3_Click(object sender, EventArgs e)
         {

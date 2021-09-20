@@ -16,5 +16,22 @@ namespace pd
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int kisiSayisi;
+            int enKucukYas = 1;
+            int enBuyukYas = 92;
+            int sonuc;
+            int enKucukHaricOrtalama = 45;
+            int enBuyukHaricOrtalama = 38;
+            sonuc = (enBuyukYas - enKucukYas) / (enKucukHaricOrtalama - enBuyukHaricOrtalama);
+            kisiSayisi = sonuc + 1;
+            Console.WriteLine("Toplam Kişi Sayısı : " + kisiSayisi);
+            
+
+            label1.Text = kisiSayisi.ToString();
+            
+        }
     }
 }

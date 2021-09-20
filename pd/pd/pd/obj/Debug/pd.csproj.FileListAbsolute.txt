@@ -56,7 +56,6 @@ X:\pd\pd\pd\obj\Debug\pd.bolunebilme1.resources
 X:\pd\pd\pd\obj\Debug\pd.bolunebilme2.resources
 X:\pd\pd\pd\obj\Debug\pd.uslu1.resources
 X:\pd\pd\pd\obj\Debug\pd.uslu2.resources
-X:\pd\pd\pd\obj\Debug\pd.uslu3.resources
 X:\pd\pd\pd\obj\Debug\pd.uslu4.resources
 X:\pd\pd\pd\obj\Debug\pd.koklu1.resources
 X:\pd\pd\pd\obj\Debug\pd.koklu2.resources
@@ -68,9 +67,7 @@ X:\pd\pd\pd\obj\Debug\pd.polinom1.resources
 X:\pd\pd\pd\obj\Debug\pd.polinom2.resources
 X:\pd\pd\pd\obj\Debug\pd.hiz1.resources
 X:\pd\pd\pd\obj\Debug\pd.hiz2.resources
-X:\pd\pd\pd\obj\Debug\pd.hiz3.resources
 X:\pd\pd\pd\obj\Debug\pd.hiz4.resources
 X:\pd\pd\pd\obj\Debug\pd.yas1.resources
 X:\pd\pd\pd\obj\Debug\pd.yas2.resources
 X:\pd\pd\pd\obj\Debug\pd.yas3.resources
-X:\pd\pd\pd\obj\Debug\pd.yas4.resources
